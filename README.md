@@ -33,3 +33,6 @@ The form has two free, no-backend options: WhatsApp opens a prepared message; Em
 - Test external portals and contact methods.
 - Configure HTTPS in Cloudflare Pages/domain settings.
 - For the email form, an email app must be configured on the visitor's device. If you need submissions delivered without the visitor's email app, a form service/backend is required.
+
+
+IMPORTANT — LOGO FILES: Upload the entire contents of this ZIP to the repository root, including `bsnl-logo.png`, `vdigital-logo.png`, and `fiberx-logo.svg`. Do not upload only the HTML files. The `partners.html` page loads these logo files by relative path from the same folder.
